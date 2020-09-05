@@ -1,4 +1,4 @@
-# workman to QWERTY Layout
+# Workman to QWERTY Layout
 
 * Download the ahk file
 * Compile it 
