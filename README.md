@@ -1,4 +1,4 @@
-# autohotkey
+# workman to QWERTY LAyout
 
 * Download the ahk file
 * Compile it 
