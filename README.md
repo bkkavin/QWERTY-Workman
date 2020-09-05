@@ -1,6 +1,6 @@
 # autohotkey
 
-*Download the ahk file
+* Download the ahk file
 *Compile it 
 *Add it to our taskbar
 Run the application : Now your keyboard has Workman layout!  
